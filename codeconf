@@ -1,0 +1,23 @@
+Github's #Codeconf 2011
+
+
+Dr. Nic
+
+choctop - build a dmg file
+rubigen - generators
+complete -F <completefn> CMD - DIY tab completion
+  rake TAB TAB
+  drnic/tabtab on gh
+  	       use tab tab to pick a random port to run server on
+  1. learn things
+  2. encapsulate in code
+  3. repeat and go faster
+
+Coda, infrastructure architect from yammer
+  use code to generate business value
+  ruby sort_by has a sleep in it (wtf)
+  sort has a raise exception in it (wtf)
+
+  measuring makes your decisions better - but only if we are measuring the right thing
+
+  yammer metrics measures production (java/scala)
